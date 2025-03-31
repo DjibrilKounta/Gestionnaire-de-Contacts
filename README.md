@@ -23,3 +23,5 @@ Le **Gestionnaire de Contacts** est une application console développée en C# q
 1. Clonez ce dépôt sur votre machine :
    ```bash
    git clone https://github.com/DjibrilKounta/Gestionnaire-de-Contacts.git
+
+![Langages principaux](https://img.shields.io/github/languages/top/DjibrilKounta/Gestionnaire-de-Contacts)
