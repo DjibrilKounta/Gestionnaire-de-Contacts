@@ -1,0 +1,14 @@
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\bin\Debug\net8.0\Gestionnaire de Contacts.exe
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\bin\Debug\net8.0\Gestionnaire de Contacts.deps.json
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\bin\Debug\net8.0\Gestionnaire de Contacts.runtimeconfig.json
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\bin\Debug\net8.0\Gestionnaire de Contacts.dll
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\bin\Debug\net8.0\Gestionnaire de Contacts.pdb
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.AssemblyInfoInputs.cache
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.AssemblyInfo.cs
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.csproj.CoreCompileInputs.cache
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.dll
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\refint\Gestionnaire de Contacts.dll
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.pdb
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\Gestionnaire de Contacts.genruntimeconfig.cache
+C:\Users\kount\OneDrive\Bureau\WorkSpace\C#\Gestionnaire de Contacts\Gestionnaire de Contacts\obj\Debug\net8.0\ref\Gestionnaire de Contacts.dll
