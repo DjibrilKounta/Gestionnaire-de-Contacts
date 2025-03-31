@@ -1,5 +1,8 @@
 # Gestionnaire de Contacts 📇
 
+![Langages principaux](https://img.shields.io/github/languages/top/DjibrilKounta/Gestionnaire-de-Contacts)
+![Dernière mise à jour](https://img.shields.io/github/last-commit/DjibrilKounta/Gestionnaire-de-Contacts)
+
 ## 📝 Description
 Le **Gestionnaire de Contacts** est une application console développée en C# qui permet de gérer des contacts facilement. Les utilisateurs peuvent ajouter, afficher, et supprimer des contacts. Ce projet est idéal pour s'initier à la programmation en C# et à la manipulation des listes.
 
@@ -23,5 +26,3 @@ Le **Gestionnaire de Contacts** est une application console développée en C# q
 1. Clonez ce dépôt sur votre machine :
    ```bash
    git clone https://github.com/DjibrilKounta/Gestionnaire-de-Contacts.git
-
-![Langages principaux](https://img.shields.io/github/languages/top/DjibrilKounta/Gestionnaire-de-Contacts)
